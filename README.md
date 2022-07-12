@@ -1,2 +1,2 @@
 # portfolio
-Place for personal projects and musings
+Who I am and what I'm up to
